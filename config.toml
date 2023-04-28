@@ -1,4 +1,4 @@
-baseurl = "https://Geoinfo-TUGraz.github.io"
+baseurl = "https://Geoinfo-TUGraz.github.io/GeoCROW_Website"
 DefaultContentLanguage = "en"
 title = "Beautiful Hugo"
 theme = "beautifulhugo"
