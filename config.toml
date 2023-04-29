@@ -1,6 +1,6 @@
 baseurl = "https://Geoinfo-TUGraz.github.io/GeoCROW_Website"
 DefaultContentLanguage = "en"
-title = "Beautiful Hugo"
+title = "GeoCROW - Project"
 theme = "beautifulhugo"
 pygmentsStyle = "trac"
 pygmentsUseClasses = true
@@ -13,9 +13,9 @@ pygmentsCodefencesGuessSyntax = true
 
 [Params]
 #  homeTitle = "Beautiful Hugo Theme" # Set a different text for the header on the home page
-  subtitle = "Build a beautiful and simple website in minutes"
+  subtitle = "Supporting humanitary missions using GeoSemantic and Crowdsourced enhanced Virtual Reality"
   mainSections = ["post","posts"]
-  logo = "img/avatar-icon.png" # Expecting square dimensions
+  logo = "img/geocrow_logo.png" # Expecting square dimensions
   favicon = "img/favicon.ico"
   dateFormat = "January 2, 2006"
   commit = false
