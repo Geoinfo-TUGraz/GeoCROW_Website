@@ -62,21 +62,12 @@ pygmentsCodefencesGuessSyntax = true
 #   discord = "invite code (https://discord.gg/XXXXXXX)"
 #   strava = "userid"
 
-# publishDir = "content"
-# [languages]
-#   [languages.de]
-#     contentDir = 'content/de'
-#     disabled = false
-#     languageCode = 'de-DE'
-#     languageDirection = 'ltr'
-#     languageName = 'Deutsch'
-#     weight = 1
-#   [languages.en] 
-#     contentDir = 'content/en'
-#     disabled = false
-#     languageName = 'English'
-#     weight = 2
-# The issue with the languages is that the URL switches to /en/ and not to /GeoCROW_Website/en/
+[languages]
+  [languages.en] 
+    contentDir = "content/en" # English
+  [languages.de]
+    contentDir = "content/de" # Japanese
+#The issue with the languages is that the URL switches to /en/ and not to /GeoCROW_Website/en/
   
 
 # [[menu.main]]

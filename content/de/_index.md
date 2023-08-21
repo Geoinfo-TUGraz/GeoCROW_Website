@@ -1,16 +1,33 @@
-The GeoCROW-Project develops a methodology that uses data crawling, (geo-)semantic annotation and virtual reality to analyze operation rooms for humanitarian missions. Thus enabling the action force to prepare for the operation.
+---
+comments: false
+---
 
-Duration of the project: 01 February 2023 - 31 January 2025
+{{<justify>}}
+Das GeoCROW-Project entwickelt eine Methodik, die Datencrawling, (geo-)semantische Annotierung und virtuelle Realität zur Analyse des Einsatzraums humanitärer Missionen verbindet. Dies ermöglicht es den Einsatzkräften sich auf die Lage vor Ort vorzubereiten.
+{{</justify>}}
 
-Partners:
-![Partners](img/geocrow_partners.png)
+**Projektlaufzeit:**
 
+01 Februar 2023 - 31 Januar 2025
+
+---
+
+**Partner:**
+![Partners](geocrow_partners.png)
+
+- Technische Universität Graz
 - Semantic Web Company GmbH
 - Technische Universität Wien
 - Bundesministerium für Landesverteidigung
 - Donau Universität Krems
 - Research Institute AG & Co KG
 
-Acknowledgements:
-![FFG](img/ffg_logo.svg)
-This project is funded by Österreichische Forschungsförderungsgesellschaft mbH (FFG) within the programme “FORTE, FORTE, FORTE - Kooperative F&EProjekte 2021/2022” (Project Number FO999895161)
+---
+
+**Förderungen:**
+
+![FFG](ffg_logo.svg)
+
+Dieses Projekt wird gefördert durch Österreichische Forschungsförderungsgesellschaft mbH
+(FFG) durch das Programm “FORTE, FORTE, FORTE - Kooperative F&EProjekte
+2021/2022” (Projektnummer FO999895161)
