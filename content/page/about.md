@@ -17,29 +17,3 @@ The sheer mass of information on social media and other channels requires intell
 {{<justify>}}
 Ahead of using the acquired data for the visualization in the virtual reality environment, it is necessary to harmonize it. This accounts especially for the data in different languages. Therefore relevant events and locations are extracted from the unstructured scraped sources and the identified concepts are mapped to a multi-lingual knowledge graph. Further context can be created by linking the data. Methods such as disambiguation and classification are applied here.
 {{</justify>}}
-
-**Duration of the project:**
-
-01 February 2023 - 31 January 2025
-
----
-
-**Partners:**
-![Partners](img/geocrow_partners.png)
-
-- Technische Universität Graz
-- Semantic Web Company GmbH
-- Technische Universität Wien
-- Bundesministerium für Landesverteidigung
-- Donau Universität Krems
-- Research Institute AG & Co KG
-
----
-
-**Acknowledgements:**
-
-![FFG](img/ffg_logo.svg)
-
-This project is funded by Österreichische Forschungsförderungsgesellschaft mbH
-(FFG) within the programme “FORTE, FORTE, FORTE - Kooperative F&EProjekte
-2021/2022” (Project Number FO999895161)
