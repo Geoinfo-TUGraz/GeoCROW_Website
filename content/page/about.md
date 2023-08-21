@@ -1,16 +1,45 @@
 ---
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: About GeoCROW
 comments: false
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+{{<justify>}}
+Virtual 3D representations - such as Google Earth, NASA World Wind - can be used in a professional context to remotely gather information on unknown areas. However, this reconnaissance in a virtual space is limited to the representation of the real world at the data acquisition (e.g. the moment the satellite imagery was taken). The project GeoCROW uses geosemantics and intelligent data crawling methods to discover current data and information, categorize, validate, georeference and visualize them. Potential sources are social media, linked open data portals, news agencies etc.
+{{</justify>}}
+{{<justify>}}
+The sheer mass of information on social media and other channels requires intelligent algorithms for filtering and categorization to make the information available for the operator. Another issue is that only a small amount of websources contain locations. Thus the gathered data must be located using text and context analysis. The project focuses on the following three technical challenges:
+{{</justify>}}
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+1. (geo-)semantic analasys and geoparsing of unstructured web-data from different cultural and linguistic regions of the world
+2. Integration of (geo-)semantic annotated data in a virtual reality environment
+3. Interaction with (geo-)semantic annotated data in a virtual reality environment
 
-What else do you need?
+{{<justify>}}
+Ahead of using the acquired data for the visualization in the virtual reality environment, it is necessary to harmonize it. This accounts especially for the data in different languages. Therefore relevant events and locations are extracted from the unstructured scraped sources and the identified concepts are mapped to a multi-lingual knowledge graph. Further context can be created by linking the data. Methods such as disambiguation and classification are applied here.
+{{</justify>}}
 
-### my history
+**Duration of the project:**
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+01 February 2023 - 31 January 2025
+
+---
+
+**Partners:**
+![Partners](img/geocrow_partners.png)
+
+- Technische Universität Graz
+- Semantic Web Company GmbH
+- Technische Universität Wien
+- Bundesministerium für Landesverteidigung
+- Donau Universität Krems
+- Research Institute AG & Co KG
+
+---
+
+**Acknowledgements:**
+
+![FFG](img/ffg_logo.svg)
+
+This project is funded by Österreichische Forschungsförderungsgesellschaft mbH
+(FFG) within the programme “FORTE, FORTE, FORTE - Kooperative F&EProjekte
+2021/2022” (Project Number FO999895161)

@@ -19,7 +19,7 @@ pygmentsCodefencesGuessSyntax = true
   favicon = "img/favicon.ico"
   dateFormat = "January 2, 2006"
   commit = false
-  rss = true
+  # rss = true
   comments = true
   readingTime = true
   wordCount = true
@@ -27,88 +27,92 @@ pygmentsCodefencesGuessSyntax = true
   socialShare = true
   delayDisqus = true
   showRelatedPosts = true
-#  hideAuthor = true
-#  gcse = "012345678901234567890:abcdefghijk" # Get your code from google.com/cse. Make sure to go to "Look and Feel" and change Layout to "Full Width" and Theme to "Classic"
-
-#[[Params.bigimg]]
-#  src = "img/triangle.jpg"
-#  desc = "Triangle"
-#[[Params.bigimg]]
-#  src = "img/sphere.jpg"
-#  desc = "Sphere"
-#  # position: see values of CSS background-position.
-#  position = "center top"
-#[[Params.bigimg]]
-#  src = "img/hexagon.jpg"
-#  desc = "Hexagon"
+  customCSS = ["style.css"]
 
 [Author]
   # Set only your "username" for default hosts and full URLs otherwise (e.g., "https://MyGitLab.org/username")
-  name = "Some Person"
-  website = "yourwebsite.com"
-  email = "youremail@domain.com"
-  facebook = "username"
-  github = "username"
-  gitlab = "username"
-  bitbucket = "username"
-  twitter = "username"
-  reddit = "username"
-  linkedin = "username"
-  xing = "username"
-  stackoverflow = "users/XXXXXXX/username"
-  snapchat = "username"
-  instagram = "username"
-  youtube = "user/username" # or channel/channelname
-  soundcloud = "username"
-  spotify = "username"
-  bandcamp = "username"
-  itchio = "username"
-  vk = "username"
-  paypal = "username"
-  telegram = "username"
-  500px = "username"
-  codepen = "username"
-  mastodon = "url"
-  kaggle = "username"
-  weibo = "username"
-  slack = "username"
-  discord = "invite code (https://discord.gg/XXXXXXX)"
-  strava = "userid"
+#  name = "Some Person"
+#   website = "yourwebsite.com"
+#   email = "youremail@domain.com"
+#   facebook = "username"
+#   github = "username"
+#   gitlab = "username"
+#   bitbucket = "username"
+#   twitter = "username"
+#   reddit = "username"
+#   linkedin = "username"
+#   xing = "username"
+#   stackoverflow = "users/XXXXXXX/username"
+#   snapchat = "username"
+#   instagram = "username"
+#   youtube = "user/username" # or channel/channelname
+#   soundcloud = "username"
+#   spotify = "username"
+#   bandcamp = "username"
+#   itchio = "username"
+#   vk = "username"
+#   paypal = "username"
+#   telegram = "username"
+#   500px = "username"
+#   codepen = "username"
+#   mastodon = "url"
+#   kaggle = "username"
+#   weibo = "username"
+#   slack = "username"
+#   discord = "invite code (https://discord.gg/XXXXXXX)"
+#   strava = "userid"
 
-[[menu.main]]
-    name = "Blog"
-    url = ""
-    weight = 1
+# publishDir = "content"
+# [languages]
+#   [languages.de]
+#     contentDir = 'content/de'
+#     disabled = false
+#     languageCode = 'de-DE'
+#     languageDirection = 'ltr'
+#     languageName = 'Deutsch'
+#     weight = 1
+#   [languages.en] 
+#     contentDir = 'content/en'
+#     disabled = false
+#     languageName = 'English'
+#     weight = 2
+# The issue with the languages is that the URL switches to /en/ and not to /GeoCROW_Website/en/
+  
+
+# [[menu.main]]
+#     name = "Blog"
+#     url = ""
+#     weight = 1
 
 [[menu.main]]
     name = "About"
     url = "page/about/"
-    weight = 3
-
-[[menu.main]]
-    identifier = "samples"
-    name = "Samples"
-    weight = 2
-
-[[menu.main]]
-    parent = "samples"
-    name = "Big Image Sample"
-    url = "post/2017-03-07-bigimg-sample"
     weight = 1
 
-[[menu.main]]
-    parent = "samples"
-    name = "Math Sample"
-    url = "post/2017-03-05-math-sample"
-    weight = 2
+# [[menu.main]]
+#     identifier = "samples"
+#     name = "Samples"
+#     weight = 2
 
-[[menu.main]]
-    parent = "samples"
-    name = "Code Sample"
-    url = "post/2016-03-08-code-sample"
-    weight = 3
+# [[menu.main]]
+#     parent = "samples"
+#     name = "Big Image Sample"
+#     url = "post/2017-03-07-bigimg-sample"
+#     weight = 1
 
-[[menu.main]]
-    name = "Tags"
-    url = "tags"
-    weight = 3
+# [[menu.main]]
+#     parent = "samples"
+#     name = "Math Sample"
+#     url = "post/2017-03-05-math-sample"
+#     weight = 2
+
+# [[menu.main]]
+#     parent = "samples"
+#     name = "Code Sample"
+#     url = "post/2016-03-08-code-sample"
+#     weight = 3
+
+# [[menu.main]]
+#     name = "Tags"
+#     url = "tags"
+#     weight = 3

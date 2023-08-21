@@ -1,21 +1,17 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Pages on Beautiful Hugo</title>
-    <link>https://Geoinfo-TUGraz.github.io/page/</link>
-    <description>Recent content in Pages on Beautiful Hugo</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <managingEditor>youremail@domain.com (Some Person)</managingEditor>
-    <webMaster>youremail@domain.com (Some Person)</webMaster><atom:link href="https://Geoinfo-TUGraz.github.io/page/index.xml" rel="self" type="application/rss+xml" />
+    <title>Pages on GeoCROW - Project</title>
+    <link>https://Geoinfo-TUGraz.github.io/GeoCROW_Website/page/</link>
+    <description>Recent content in Pages on GeoCROW - Project</description>
+    <generator>Hugo -- gohugo.io</generator><atom:link href="https://Geoinfo-TUGraz.github.io/GeoCROW_Website/page/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>About me</title>
-      <link>https://Geoinfo-TUGraz.github.io/page/about/</link>
+      <title>About GeoCROW</title>
+      <link>https://Geoinfo-TUGraz.github.io/GeoCROW_Website/page/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>youremail@domain.com (Some Person)</author>
-      <guid>https://Geoinfo-TUGraz.github.io/page/about/</guid>
-      <description>My name is Inigo Montoya. I have the following qualities:
-I rock a great mustache I&amp;rsquo;m extremely loyal to my family What else do you need?
-my history To be honest, I&amp;rsquo;m having some trouble remembering right now, so why don&amp;rsquo;t you just watch my movie and it will answer all your questions.</description>
+      
+      <guid>https://Geoinfo-TUGraz.github.io/GeoCROW_Website/page/about/</guid>
+      <description>Virtual 3D representations - such as Google Earth, NASA World Wind - can be used in a professional context to remotely gather information on unknown areas. However, this reconnaissance in a virtual space is limited to the representation of the real world at the data acquisition (e.g. the moment the satellite imagery was taken). The project GeoCROW uses geosemantics and intelligent data crawling methods to discover current data and information, categorize, validate, georeference and visualize them.</description>
     </item>
     
   </channel>

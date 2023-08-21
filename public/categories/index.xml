@@ -1,11 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on Beautiful Hugo</title>
-    <link>https://Geoinfo-TUGraz.github.io/categories/</link>
-    <description>Recent content in Categories on Beautiful Hugo</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <managingEditor>youremail@domain.com (Some Person)</managingEditor>
-    <webMaster>youremail@domain.com (Some Person)</webMaster><atom:link href="https://Geoinfo-TUGraz.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <title>Categories on GeoCROW - Project</title>
+    <link>https://Geoinfo-TUGraz.github.io/GeoCROW_Website/categories/</link>
+    <description>Recent content in Categories on GeoCROW - Project</description>
+    <generator>Hugo -- gohugo.io</generator><atom:link href="https://Geoinfo-TUGraz.github.io/GeoCROW_Website/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
