@@ -65,7 +65,7 @@ nutzen und gleichzeitig Bewegungskrankheiten zu vermeiden.
 ---
 
 **Partner:**
-![Partners](geocrow_partners.png)
+{{< img src="imgs/geocrow_partners.png" alt="" width="75%" >}}
 
 - Technische Universität Graz
 - Semantic Web Company GmbH
@@ -78,8 +78,13 @@ nutzen und gleichzeitig Bewegungskrankheiten zu vermeiden.
 
 **Förderungen:**
 
-![FFG](ffg_logo.svg)
+{{< img src="imgs/ffg_logo.svg" alt="" width="66%" >}}
 
 Dieses Projekt wird gefördert durch Österreichische Forschungsförderungsgesellschaft mbH
 (FFG) durch das Programm “FORTE, FORTE, FORTE - Kooperative F&EProjekte
 2021/2022” (Projektnummer FO999895161)
+
+**Powered by Ontotext GraphDB**
+
+{{< img src="imgs/Ontotext-logo-xl.png" alt="" width="50%" height="100%" >}}
+{{< img src="imgs/graphdb-logo-1000px.png" alt="" width="50%" height="100%" >}}
