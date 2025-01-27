@@ -6,6 +6,7 @@ comments: false
 # Privacy Policy
 
 **Data Controller**
+
 The entity responsible for data processing on this website in accordance with the General Data Protection Regulation (GDPR) is:
 
 Paris Lodron University of Salzburg
@@ -15,6 +16,7 @@ Tel.: +43(0) 662 8044-0
 Email: rector@plus.ac.at
 
 **Contact Data Protection Officer**
+
 Paris Lodron University of Salzburg
 Data Protection Officer
 Kapitelgasse 4-6
@@ -33,18 +35,23 @@ The processing of personal data is not generally intended within the project. Ho
 # Data Processing when Visiting the Website
 
 **Processing of IP Addresses**
+
 When visiting our website, your IP address is temporarily stored. This storage serves our legitimate interest (Art. 6 para. 1 lit. f GDPR) in determining the timing and duration of website visits to ensure the security, stability, and functionality of the website.
 
 **Provision of Personal Data**
+
 The provision of your personal data is neither legally nor contractually required and is not necessary for entering into a contract.
 
 **Retention Period**
+
 Stored IP addresses are deleted after the end of your visit, unless longer storage is required to ensure website security or due to legal retention obligations.
 
 **Transfer of Data**
+
 Your IP address will not be shared with third parties unless we are legally obligated to do so or it is necessary to prevent threats to IT security.
 
 **Your Rights**
+
 Under the GDPR, you have the following rights regarding the processing of your personal data:
 
 - Right of access
@@ -56,4 +63,5 @@ Under the GDPR, you have the following rights regarding the processing of your p
 To exercise these rights, please contact the above-mentioned responsible entities.
 
 **Right to Lodge a Complaint**
+
 If you believe that the processing of your personal data violates data protection laws, you have the right to lodge a complaint with the competent data protection authority.

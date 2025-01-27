@@ -81,14 +81,7 @@ pygmentsCodefencesGuessSyntax = true
     weight = 1
 
 [[menu.main]]
-    name = "Imprint"
-    languages = ["en"]
-    url = "page/imprint/"
-    weight = 1
-
-[[menu.main]]
     name = "Impressum"
-    languages = ["de"]
     url = "page/impressum/"
     weight = 1
 

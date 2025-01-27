@@ -6,6 +6,7 @@ comments: false
 # Datenschutzhinweis
 
 **Verantwortlicher**
+
 Verantwortlich für die Datenverarbeitung auf dieser Website im Sinne der Datenschutz-Grundverordnung (DSGVO) ist:
 
 Paris Lodron Universität Salzburg
@@ -15,6 +16,7 @@ Tel.: +43(0) 662 8044-0
 E-Mail: rector@plus.ac.at
 
 **Kontakt Datenschutzbeauftragter**
+
 Paris Lodron Universität Salzburg
 Mag. Michael Hasler, LL.M.
 Kapitelgasse 4-6
@@ -33,18 +35,23 @@ Die Verarbeitung personenbezogener Daten wird im Projekt grundsätzlich nicht an
 # Verarbeitungstätigkeiten beim Besuch der Website
 
 **Verarbeitung von IP-Adressen**
+
 Beim Besuch unserer Website wird Ihre IP-Adresse temporär gespeichert. Diese Speicherung dient unserem berechtigten Interesse (Art. 6 Abs. 1 lit. f DSGVO), den Zeitpunkt und die Dauer des Webseitenbesuchs festzustellen, um die Systemsicherheit, Stabilität und Funktionsfähigkeit der Website zu gewährleisten.
 
 **Bereitstellung personenbezogener Daten**
+
 Die Bereitstellung Ihrer personenbezogenen Daten ist weder gesetzlich noch vertraglich vorgeschrieben und nicht für einen Vertragsabschluss erforderlich.
 
 **Speicherdauer**
+
 Die gespeicherten IP-Adressen werden nach Beendigung Ihres Besuchs gelöscht, sofern keine längere Speicherung erforderlich ist, z. B. zur Gewährleistung der Sicherheit der Website oder aufgrund gesetzlicher Aufbewahrungspflichten.
 
 **Weitergabe von Daten**
+
 Ihre IP-Adresse wird nicht an Dritte weitergegeben, es sei denn, dies ist gesetzlich vorgeschrieben oder zur Abwehr von Gefahren für die Sicherheit in der Informationstechnik notwendig.
 
 **Ihre Rechte**
+
 Sie haben gemäß der DSGVO folgende Rechte in Bezug auf die Verarbeitung Ihrer personenbezogenen Daten:
 
 - Recht auf Auskunft
@@ -56,4 +63,5 @@ Sie haben gemäß der DSGVO folgende Rechte in Bezug auf die Verarbeitung Ihrer 
 Für die Ausübung dieser Rechte wenden Sie sich bitte an die oben genannten Kontaktstellen.
 
 **Beschwerderecht**
+
 Sollten Sie der Ansicht sein, dass die Verarbeitung Ihrer personenbezogenen Daten gegen Datenschutzgesetze verstößt, haben Sie das Recht, Beschwerde bei der zuständigen Datenschutzbehörde einzulegen.
