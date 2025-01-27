@@ -10,18 +10,27 @@ comments: false
 Verantwortlich für die Datenverarbeitung auf dieser Website im Sinne der Datenschutz-Grundverordnung (DSGVO) ist:
 
 Paris Lodron Universität Salzburg
+
 Kapitelgasse 4-6
+
 5020 Salzburg
+
 Tel.: +43(0) 662 8044-0
+
 E-Mail: rector@plus.ac.at
 
 **Kontakt Datenschutzbeauftragter**
 
 Paris Lodron Universität Salzburg
+
 Mag. Michael Hasler, LL.M.
+
 Kapitelgasse 4-6
+
 5020 Salzburg
+
 Tel.: +43 662 8044 2007
+
 E-Mail: datenschutz@plus.ac.at
 
 **Verarbeitungstätigkeiten im Rahmen des GeoCROW-Forschungsprojekts**

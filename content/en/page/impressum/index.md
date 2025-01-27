@@ -10,18 +10,27 @@ comments: false
 The entity responsible for data processing on this website in accordance with the General Data Protection Regulation (GDPR) is:
 
 Paris Lodron University of Salzburg
+
 Kapitelgasse 4-6
+
 5020 Salzburg
+
 Tel.: +43(0) 662 8044-0
+
 Email: rector@plus.ac.at
 
 **Contact Data Protection Officer**
 
 Paris Lodron University of Salzburg
+
 Data Protection Officer
+
 Kapitelgasse 4-6
+
 5020 Salzburg
+
 Tel.: +43 662 8044 2007
+
 Email: datenschutz@plus.ac.at
 
 # Data Processing within the GeoCROW Research Project
