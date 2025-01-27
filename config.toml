@@ -80,6 +80,11 @@ pygmentsCodefencesGuessSyntax = true
     url = "page/about/"
     weight = 1
 
+[[menu.main]]
+    name = "Imprint"
+    url = "page/imprint/"
+    weight = 1
+
 # [[menu.main]]
 #     identifier = "samples"
 #     name = "Samples"
