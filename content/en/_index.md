@@ -15,22 +15,20 @@ The GeoCROW-Project develops a methodology that uses data crawling, (geo-)semant
 **Partners:**
 {{< img src="imgs/geocrow_partners.png" alt="" width="75%" >}}
 
-- Technische Universität Graz
+- Paris-Lodron-Universität-Salzburg
 - Semantic Web Company GmbH
 - Technische Universität Wien
 - Bundesministerium für Landesverteidigung
-- Donau Universität Krems
+- Universität für Weiterbildung Krems
 - Research Institute AG & Co KG
 
 ---
 
 **Acknowledgements:**
 
-{{< img src="imgs/bundesministerium_finanzen.jpg" alt="" width="20%" >}}
-
-{{< img src="imgs/ffg_logo.svg" alt="" width="20%" >}}
-
-{{< img src="imgs/forte_logo_cutout.jpg" alt="" width="20%" >}}
+| ![Bundesministerium Finanzen](imgs/bundesministerium_finanzen.jpg) | ![FFG](imgs/ffg_logo.svg) | ![FORTE](imgs/forte_logo_cutout.jpg) |
+| :----------------------------------------------------------------: | :-----------------------: | :----------------------------------: |
+|                     Bundesministerium Finanzen                     |           FFG 2           |                FORTE                 |
 
 This project has received funding from the FORTE programme. FORTE is a research, technology and innovation funding programme of the Republic of Austria, Federal Ministry of Finance. The Austrian Research Promotion Agency (FFG) has been authorised for the programme management. (Project Number FO999895161)
 
