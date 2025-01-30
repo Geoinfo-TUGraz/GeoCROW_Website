@@ -26,7 +26,7 @@ Das GeoCROW-Project entwickelt eine Methodik, die Datencrawling, (geo-)semantisc
 
 **Förderungen:**
 
-![Bundesministerium Finanzen](imgs/bundesministerium_finanzen.jpg)
+{{< img src="imgs/bundesministerium_finanzen.jpg" alt="" width="50%" height="100%" >}}
 
 ![FFG](imgs/ffg_logo.svg)
 
