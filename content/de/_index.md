@@ -26,9 +26,11 @@ Das GeoCROW-Project entwickelt eine Methodik, die Datencrawling, (geo-)semantisc
 
 **Förderungen:**
 
-| ![Bundesministerium Finanzen](imgs/bundesministerium_finanzen.jpg) | ![FFG](imgs/ffg_logo.svg) | ![FORTE](imgs/forte_logo_cutout.jpg) |
-| :----------------------------------------------------------------: | :-----------------------: | :----------------------------------: |
-|                     Bundesministerium Finanzen                     |            FFG            |                FORTE                 |
+![Bundesministerium Finanzen](imgs/bundesministerium_finanzen.jpg)
+
+![FFG](imgs/ffg_logo.svg)
+
+![FORTE](imgs/forte_logo_cutout.jpg)
 
 Das Projekt GeoCROW (Projektnr.: FO999895161) wird im Rahmen des Programms FORTE durch das Bundesministerium für Finanzen und von der Österreichischen Forschungsförderungsgesellschaft abgewickelt.
 
