@@ -26,11 +26,11 @@ The GeoCROW-Project develops a methodology that uses data crawling, (geo-)semant
 
 **Acknowledgements:**
 
-{{< img src="imgs/ffg_logo.svg" alt="" width="66%" >}}
+{{< img src="imgs/bundesministerium_finanzen.jpg" alt="" width="50%" >}}
+{{< img src="imgs/ffg_logo.svg" alt="" width="50%" >}}
+{{< img src="imgs/forte_logo_cutout.jpg" alt="" width="50%" >}}
 
-This project is funded by Österreichische Forschungsförderungsgesellschaft mbH
-(FFG) within the programme “FORTE, FORTE, FORTE - Kooperative F&EProjekte
-2021/2022” (Project Number FO999895161)
+This project has received funding from the FORTE programme. FORTE is a research, technology and innovation funding programme of the Republic of Austria, Federal Ministry of Finance. The Austrian Research Promotion Agency (FFG) has been authorised for the programme management. (Project Number FO999895161)
 
 **Powered by Ontotext GraphDB**
 

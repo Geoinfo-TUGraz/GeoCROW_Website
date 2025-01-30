@@ -26,11 +26,11 @@ Das GeoCROW-Project entwickelt eine Methodik, die Datencrawling, (geo-)semantisc
 
 **Förderungen:**
 
-{{< img src="imgs/ffg_logo.svg" alt="" width="66%" >}}
+{{< img src="imgs/bundesministerium_finanzen.jpg" alt="" width="50%" >}}
+{{< img src="imgs/ffg_logo.svg" alt="" width="50%" >}}
+{{< img src="imgs/forte_logo_cutout.jpg" alt="" width="50%" >}}
 
-Dieses Projekt wird gefördert durch Österreichische Forschungsförderungsgesellschaft mbH
-(FFG) durch das Programm “FORTE, FORTE, FORTE - Kooperative F&EProjekte
-2021/2022” (Projektnummer FO999895161)
+Das Projekt GeoCROW (Projektnr.: FO999895161) wird im Rahmen des Programms FORTE durch das Bundesministerium für Finanzen und von der Österreichischen Forschungsförderungsgesellschaft abgewickelt.
 
 **Powered by Ontotext GraphDB**
 
