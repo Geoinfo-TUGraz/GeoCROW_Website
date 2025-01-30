@@ -15,22 +15,18 @@ Das GeoCROW-Project entwickelt eine Methodik, die Datencrawling, (geo-)semantisc
 **Partner:**
 {{< img src="imgs/geocrow_partners.png" alt="" width="75%" >}}
 
-- Technische Universität Graz
+- Paris-Lodron-Universität-Salzburg
 - Semantic Web Company GmbH
 - Technische Universität Wien
 - Bundesministerium für Landesverteidigung
-- Donau Universität Krems
+- Universität für Weiterbildung Krems
 - Research Institute AG & Co KG
 
 ---
 
 **Förderungen:**
 
-{{< img src="imgs/bundesministerium_finanzen.jpg" alt="" width="50%" >}}
-
-{{< img src="imgs/ffg_logo.svg" alt="" width="50%" >}}
-
-{{< img src="imgs/forte_logo_cutout.jpg" alt="" width="50%" >}}
+| ![Bundesministerium Finanzen](imgs/bundesministerium_finanzen.jpg) | ![FFG](imgs/ffg_logo.svg) | ![FORTE](imgs/forte_logo_cutout.jpg) |
 
 Das Projekt GeoCROW (Projektnr.: FO999895161) wird im Rahmen des Programms FORTE durch das Bundesministerium für Finanzen und von der Österreichischen Forschungsförderungsgesellschaft abgewickelt.
 
